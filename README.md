@@ -43,7 +43,7 @@ To successfully execute this script suite, ensure the target environment meets t
 Follow these steps to deploy and run the scripts on your local Linux terminal.
 
 **1. Clone the repository:**
-    git clone https://github.com/your-username/oss-audit-24BCE10028.git
+    git clone https://github.com/sachanrijul/oss-audit-24BCE10028.git
     cd oss-audit-24BCE10028
 
 **2. Make the scripts executable:**
